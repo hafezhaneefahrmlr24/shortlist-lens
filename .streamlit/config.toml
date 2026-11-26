@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#2F6FED"
+
+[server]
+# Only this computer can open the app. Remove this line to share it on your network.
+address = "localhost"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

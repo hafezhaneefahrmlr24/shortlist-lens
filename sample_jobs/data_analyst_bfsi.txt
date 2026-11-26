@@ -1,0 +1,20 @@
+Data Analyst, Lending (sample job)
+
+About the role
+Our lending team needs an analyst to build the dashboards and analysis behind credit and customer decisions.
+
+What you'll do
+- Write SQL to pull and clean loan and customer data
+- Build and maintain dashboards in Tableau or Power BI
+- Automate recurring reports in Python
+- Support credit-risk analysis with clear findings for business teams
+
+What we're looking for
+- 3+ years of experience in data analysis
+- Strong SQL and Python
+- Experience building dashboards in Tableau or Power BI
+- Background in banking, financial services or insurance (BFSI)
+
+Nice to have
+- Credit-risk or lending experience
+- A good grounding in statistics

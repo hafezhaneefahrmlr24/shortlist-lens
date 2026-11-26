@@ -1,0 +1,5 @@
+{"source": "Extracted from hr_business_partner.txt by qwen3:4b (temperature 0). Used by tools/eval_search.py so search can be tested without a model.",
+ "roleTitle": "HR Business Partner, Operations",
+ "mustHave": ["4+ years of experience as an HRBP or HR generalist", "strong employee relations and performance management experience", "comfortable with HR analytics and Excel"],
+ "niceToHave": ["experience with Workday or another HRIS", "experience reducing attrition through onboarding or engagement programmes"],
+ "minExperienceYrs": 4.0}

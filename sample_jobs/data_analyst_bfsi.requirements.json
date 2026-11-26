@@ -1,0 +1,5 @@
+{"source": "Extracted from data_analyst_bfsi.txt by qwen3:4b (temperature 0). Used by tools/eval_search.py so search can be tested without a model.",
+ "roleTitle": "Data Analyst, Lending",
+ "mustHave": ["SQL", "Python", "Tableau or Power BI", "3+ years of experience in data analysis", "Background in banking, financial services or insurance (BFSI)"],
+ "niceToHave": ["Credit-risk or lending experience", "A good grounding in statistics"],
+ "minExperienceYrs": 3.0}
